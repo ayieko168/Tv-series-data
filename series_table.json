@@ -1,16 +1,4 @@
 {
-  "Breaking Bad": [
-    5,
-    16,
-    "thumbnails/breaking-bad.jpg",
-    "2019-01-12 05:41:59.462785"
-  ],
-  "Scorpion": [
-    4,
-    22,
-    "thumbnails/scorpion.jpg",
-    "2019-01-12 05:42:53.972861"
-  ],
   "The Big Bang Theory": [
     10,
     15,
@@ -41,6 +29,12 @@
     "thumbnails/blindspot.jpg",
     "2019-01-12 05:41:54.292778"
   ],
+  "Peaky Blinders": [
+    4,
+    6,
+    "thumbnails/peaky-blinders.jpg",
+    "2019-01-12 05:42:35.122835"
+  ],
   "Narcos Mexico": [
     1,
     10,
@@ -65,17 +59,17 @@
     "thumbnails/rick-and-morty.jpg",
     "2019-01-12 05:42:44.662848"
   ],
+  "The Walking Dead": [
+    8,
+    6,
+    "thumbnails/the-walking-dead.jpg",
+    "2019-01-12 05:43:15.262891"
+  ],
   "Ozark": [
     2,
     10,
     "thumbnails/ozark.jpg",
     "2019-01-12 05:42:28.922826"
-  ],
-  "Roots": [
-    1,
-    4,
-    "thumbnails/roots.jpg",
-    "2019-01-12 05:42:49.402855"
   ],
   "Silicon Valley": [
     5,
@@ -114,9 +108,21 @@
     "2019-01-14 23:37:14.009095"
   ],
   "Dynasty": [
+    2,
+    10,
+    "thumbnails/dynasty.jpg",
+    "2019-02-07 22:52:08.334034"
+  ],
+  "The Good Doctor": [
+    2,
+    12,
+    "thumbnails/the-good-doctor.jpg",
+    "2019-01-27 00:51:33.217741"
+  ],
+  "Big Mouth": [
     1,
-    8,
+    1,
     "thumbnails/",
-    "2019-01-20 11:49:15.471742"
+    "2019-02-07 22:44:28.929758"
   ]
 }
