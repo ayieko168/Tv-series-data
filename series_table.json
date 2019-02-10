@@ -1,9 +1,27 @@
 {
+  "Breaking Bad": [
+    5,
+    16,
+    "thumbnails/breaking-bad.jpg",
+    "2019-01-12 05:41:59.462785"
+  ],
+  "Scorpion": [
+    4,
+    22,
+    "thumbnails/scorpion.jpg",
+    "2019-01-12 05:42:53.972861"
+  ],
   "The Big Bang Theory": [
     10,
     15,
     "thumbnails/the-big-bang-theory.jpg",
     "2019-01-12 05:43:06.812879"
+  ],
+  "Game Of Thrones": [
+    7,
+    7,
+    "thumbnails/game-of-thrones.jpg",
+    "2019-01-12 05:42:15.762808"
   ],
   "Grown-Ish": [
     1,
@@ -17,11 +35,29 @@
     "thumbnails/f-is-for-family.jpg",
     "2019-01-12 05:42:09.272799"
   ],
+  "2 Broke Girls": [
+    6,
+    22,
+    "thumbnails/2-broke-girls.jpg",
+    "2019-01-12 05:41:39.471757"
+  ],
   "Blindspot": [
     4,
-    7,
+    6,
     "thumbnails/blindspot.jpg",
-    "2019-02-10 20:38:36.157768"
+    "2019-01-12 05:41:54.292778"
+  ],
+  "Peaky Blinders": [
+    4,
+    6,
+    "thumbnails/peaky-blinders.jpg",
+    "2019-01-12 05:42:35.122835"
+  ],
+  "Taboo": [
+    1,
+    10,
+    "thumbnails/taboo.jpg",
+    "2019-01-12 05:43:02.242873"
   ],
   "Narcos Mexico": [
     1,
@@ -53,11 +89,35 @@
     "thumbnails/the-walking-dead.jpg",
     "2019-01-12 05:43:15.262891"
   ],
+  "Ozark": [
+    2,
+    10,
+    "thumbnails/ozark.jpg",
+    "2019-01-12 05:42:28.922826"
+  ],
+  "Roots": [
+    1,
+    4,
+    "thumbnails/roots.jpg",
+    "2019-01-12 05:42:49.402855"
+  ],
   "Silicon Valley": [
     5,
     8,
     "thumbnails/silicon-valley.jpg",
     "2019-01-12 05:42:57.982867"
+  ],
+  "Troy Fall Of A City": [
+    1,
+    7,
+    "thumbnails/troy-fall-of-a-city.jpg",
+    "2019-01-12 05:43:20.482898"
+  ],
+  "Vikings": [
+    5,
+    10,
+    "thumbnails/vikings.jpg",
+    "2019-01-12 05:43:25.082905"
   ],
   "Queen Of The South": [
     1,
@@ -79,9 +139,9 @@
   ],
   "The Blacklist": [
     2,
-    4,
+    10,
     "thumbnails/the-blacklist.jpg",
-    "2019-02-10 19:35:38.985454"
+    "2019-01-12 05:43:11.102885"
   ],
   "Altered Carbon": [
     1,
@@ -100,11 +160,5 @@
     12,
     "thumbnails/the-good-doctor.jpg",
     "2019-01-27 00:51:33.217741"
-  ],
-  "Into The Badlands": [
-    3,
-    8,
-    "thumbnails/",
-    "2019-02-10 19:34:42.858376"
   ]
 }
