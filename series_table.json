@@ -11,12 +11,6 @@
     "thumbnails/blindspot.jpg",
     "2019-03-24 17:59:13.944508"
   ],
-  "Taboo": [
-    2,
-    10,
-    "thumbnails/taboo.jpg",
-    "2019-02-10 21:00:10.010518"
-  ],
   "Black Mirror": [
     2,
     4,
@@ -25,9 +19,9 @@
   ],
   "Vikings": [
     5,
-    10,
+    20,
     "thumbnails/vikings.jpg",
-    "2019-01-12 05:43:25.082905"
+    "2019-04-28 00:45:02.129567"
   ],
   "Westworld": [
     1,
@@ -37,9 +31,9 @@
   ],
   "Young Sheldon": [
     2,
-    10,
+    18,
     "thumbnails/young-sheldon.jpg",
-    "2019-04-27 14:18:03.013390"
+    "2019-04-28 00:45:31.919609"
   ],
   "The Blacklist": [
     2,
@@ -55,9 +49,9 @@
   ],
   "The Good Doctor": [
     2,
-    12,
+    18,
     "thumbnails/the-good-doctor.jpg",
-    "2019-01-27 00:51:33.217741"
+    "2019-04-28 00:44:41.306480"
   ],
   "Billions": [
     3,
@@ -70,5 +64,17 @@
     7,
     "NO Preview",
     "2019-02-10"
+  ],
+  "Stranger Things": [
+    1,
+    8,
+    "thumbnails/",
+    "2019-04-28 00:50:20.977080"
+  ],
+  "Ap Bio": [
+    1,
+    8,
+    "thumbnails/",
+    "2019-04-28"
   ]
 }
