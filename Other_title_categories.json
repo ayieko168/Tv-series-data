@@ -36,12 +36,6 @@
       "thumbnails/scorpion.jpg",
       "2019-01-12 05:42:53.972861"
     ],
-    "Silicon Valley": [
-      5,
-      8,
-      "thumbnails/silicon-valley.jpg",
-      "2019-01-12 05:42:57.982867"
-    ],
     "Stranger Things": [
       1,
       10,
@@ -410,8 +404,8 @@
     "Taboo": [
       2,
       10,
-      "NO Preview",
-      "2019-02-10"
+      "thumbnails/taboo.jpg",
+      "2019-04-28"
     ],
     "Altered Carbon": [
       1,
@@ -434,8 +428,8 @@
     "Narcos Mexico": [
       1,
       10,
-      "NO Preview",
-      "2019-02-10"
+      "thumbnails/",
+      "2019-04-28"
     ],
     "Ozark": [
       2,
@@ -478,6 +472,18 @@
       1,
       "thumbnails/",
       "2019-04-27"
+    ],
+    "Silicon Valley": [
+      5,
+      8,
+      "thumbnails/silicon-valley.jpg",
+      "2019-04-28"
+    ],
+    "Narcos": [
+      2,
+      10,
+      "thumbnails/",
+      "2019-04-28"
     ]
   }
 }
