@@ -1,11 +1,5 @@
 {
   "complete": {
-    "Vikings": [
-      5,
-      10,
-      "thumbnails/vikings.jpg",
-      "2019-01-12 05:43:25.082905"
-    ],
     "Troy Fall Of A City": [
       1,
       7,
@@ -99,12 +93,6 @@
       "2019-03-23"
     ],
     "The Crown": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "Mindhunter": [
       0,
       0,
       "NO Preview",
@@ -397,6 +385,12 @@
       0,
       "NO Preview",
       "2019-04-16"
+    ],
+    "First Man": [
+      0,
+      0,
+      "thumbnails\\",
+      "2019-05-04"
     ]
   },
   "movies": {},
