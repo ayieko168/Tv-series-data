@@ -80,12 +80,6 @@
       "NO Preview",
       "2019-03-23"
     ],
-    "Black Sails": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
     "Harley Quinn": [
       0,
       0,
@@ -159,12 +153,6 @@
       "2019-03-23"
     ],
     "The Expanse": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "Battlestar Galactica": [
       0,
       0,
       "NO Preview",
@@ -380,18 +368,6 @@
       "NO Preview",
       "2019-04-04"
     ],
-    "Captain Marvel": [
-      0,
-      0,
-      "NO Preview",
-      "2019-04-04"
-    ],
-    "After": [
-      0,
-      0,
-      "NO Preview",
-      "2019-04-16"
-    ],
     "First Man": [
       0,
       0,
@@ -525,6 +501,18 @@
       2,
       18,
       "thumbnails/young-sheldon.jpg",
+      "2019-05-31"
+    ],
+    "The Blacklist": [
+      2,
+      10,
+      "thumbnails/the-blacklist.jpg",
+      "2019-05-31"
+    ],
+    "The Good Doctor": [
+      2,
+      18,
+      "thumbnails/the-good-doctor.jpg",
       "2019-05-31"
     ]
   }
