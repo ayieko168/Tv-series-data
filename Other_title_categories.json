@@ -62,19 +62,7 @@
     ]
   },
   "wish_list": {
-    "War Games": [
-      0,
-      0,
-      "NO Preview",
-      "2019-02-15"
-    ],
     "God Friended Me": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "The Future Man": [
       0,
       0,
       "NO Preview",
@@ -146,25 +134,7 @@
       "NO Preview",
       "2019-03-23"
     ],
-    "Firefly": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "The Expanse": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
     "Band Of Brothers": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "Lost In Space": [
       0,
       0,
       "NO Preview",
@@ -248,12 +218,6 @@
       "NO Preview",
       "2019-03-23"
     ],
-    "Trollhunters": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
     "Hilda": [
       0,
       0,
@@ -302,19 +266,7 @@
       "NO Preview",
       "2019-03-23"
     ],
-    "The Sopranos": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
     "The Wire": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "Waiting": [
       0,
       0,
       "NO Preview",
@@ -338,24 +290,6 @@
       "NO Preview",
       "2019-03-23"
     ],
-    "Zombie Land": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "The Hunt For Red October": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
-    "Tropic Thunder": [
-      0,
-      0,
-      "NO Preview",
-      "2019-03-23"
-    ],
     "Coherence": [
       0,
       0,
@@ -368,11 +302,11 @@
       "NO Preview",
       "2019-04-04"
     ],
-    "First Man": [
+    "Zombieland": [
       0,
       0,
-      "thumbnails\\",
-      "2019-05-04"
+      "NO Preview",
+      "2019-05-31"
     ]
   },
   "movies": {},
@@ -513,6 +447,12 @@
       2,
       18,
       "thumbnails/the-good-doctor.jpg",
+      "2019-05-31"
+    ],
+    "The Black Godfather": [
+      0,
+      0,
+      "thumbnails/",
       "2019-05-31"
     ]
   }
