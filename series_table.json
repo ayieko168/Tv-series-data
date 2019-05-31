@@ -35,12 +35,6 @@
     "NO Preview",
     "2019-03-23"
   ],
-  "After": [
-    0,
-    0,
-    "NO Preview",
-    "2019-04-16"
-  ],
   "Black Sails": [
     0,
     0,
@@ -52,5 +46,65 @@
     0,
     "NO Preview",
     "2019-04-04"
+  ],
+  "War Games": [
+    0,
+    0,
+    "NO Preview",
+    "2019-02-15"
+  ],
+  "Being John Malkovich": [
+    0,
+    0,
+    "thumbnails/",
+    "2019-05-31 18:16:44.487329"
+  ],
+  "Interstellar": [
+    0,
+    0,
+    "thumbnails/",
+    "2019-05-31 18:17:08.941777"
+  ],
+  "Django Unchained": [
+    0,
+    0,
+    "thumbnails/",
+    "2019-05-31 18:17:26.625927"
+  ],
+  "Reservoir Dogs": [
+    0,
+    0,
+    "thumbnails/",
+    "2019-05-31 18:18:15.886718"
+  ],
+  "The Hunt For Red October": [
+    0,
+    0,
+    "NO Preview",
+    "2019-03-23"
+  ],
+  "Future Man": [
+    0,
+    0,
+    "NO Preview",
+    "2019-05-31"
+  ],
+  "The Expanse": [
+    0,
+    0,
+    "NO Preview",
+    "2019-03-23"
+  ],
+  "First Man": [
+    0,
+    0,
+    "thumbnails\\",
+    "2019-05-04"
+  ],
+  "Lost In Space": [
+    0,
+    0,
+    "NO Preview",
+    "2019-03-23"
   ]
 }
