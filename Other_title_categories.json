@@ -66,11 +66,41 @@
       "thumbnails/",
       "2019-05-31 18:16:44.487329"
     ],
+    "Black Sails": [
+      0,
+      0,
+      "NO Preview",
+      "2019-03-23"
+    ],
     "Captain Marvel": [
       0,
       0,
       "NO Preview",
       "2019-04-04"
+    ],
+    "Django Unchained": [
+      0,
+      0,
+      "thumbnails/",
+      "2019-05-31 18:17:26.625927"
+    ],
+    "First Man": [
+      0,
+      0,
+      "thumbnails\\",
+      "2019-05-04"
+    ],
+    "Interstellar": [
+      0,
+      0,
+      "thumbnails/",
+      "2019-05-31 18:17:08.941777"
+    ],
+    "Mindhunter": [
+      1,
+      0,
+      "NO Preview",
+      "2019-06-15 04:15:58.627505"
     ]
   },
   "wish_list": {
@@ -466,6 +496,24 @@
       0,
       "thumbnails/",
       "2019-05-31"
+    ],
+    "Attack On Titan": [
+      2,
+      25,
+      "thumbnails/",
+      "2019-06-15"
+    ],
+    "Billions": [
+      2,
+      11,
+      "thumbnails\\billions.jpg",
+      "2019-06-15"
+    ],
+    "Lost In Space": [
+      0,
+      0,
+      "NO Preview",
+      "2019-06-15"
     ]
   }
 }
